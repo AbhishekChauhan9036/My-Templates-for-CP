@@ -1,5 +1,3 @@
-// Priyansh Agarwal
-// Check out my Youtube Channel: https://www.youtube.com/c/PriyanshAgarwal
 
 #include<bits/stdc++.h>
 // #include<ext/pb_ds/assoc_container.hpp>

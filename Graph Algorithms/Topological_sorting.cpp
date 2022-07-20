@@ -1,4 +1,4 @@
-/* Priyansh Agarwal*/
+
 #include<bits/stdc++.h>
 #include<algorithm>
 #include<unordered_map>
