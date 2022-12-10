@@ -1,13 +1,12 @@
 /*--------------------------------------------------------------------------------------------------------------------------*/
 /* Author = Chauhan Abhishek */
-/* Codechef Id = https://www.codechef.com/users/abhishekchauha */
-/* Codeforces Id = https://codeforces.com/profile/abhishekchauhan903 */
-/* Newton School Id = https://my.newtonschool.co/user/abhishekchauhan9036/ */
+/* Codechef Id = https://www.codechef.com/users/abhishek_9036 */
+/* LeetCode Id = https://leetcode.com/abhishekchauhan9036/ */
+/* GeeksForGeeks Id = https://auth.geeksforgeeks.org/user/abhishekchauhan9036/profile */
 /* GitHub Id = https://github.com/AbhishekChauhan9036 */
 /* Language = C++ */
 /* Address = Ballia,UP,INDIA (221716)*/
 /*--------------------------------------------------------------------------------------------------------------------------*/
-
 #pragma GCC optimize("O3,unroll-loops")
 #include<bits/stdc++.h>
 #define MOD1 998244353
