@@ -38,7 +38,7 @@ function main() {
     while (t--) {
         var n = parseInt(readLine());//Number input in js
 
-        var [num1,num2]=readLine().split(" ").map(Number);//two number input in single line like n,m
+        var [num1,num2]=readLine().split(" ").map(Number);//two number input in single line like n & m
         
         var str=readLine();//String input in Js
         
