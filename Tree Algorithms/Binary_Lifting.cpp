@@ -1,3 +1,4 @@
+
 struct BinaryLifting {
     int n;
     int maxLog;
